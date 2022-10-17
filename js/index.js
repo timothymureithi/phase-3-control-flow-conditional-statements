@@ -9,7 +9,7 @@ function adminLogin(username, password) {
   } else {
     return "Access denied";
   }
-}
+} 
 
 /*
   Write a method `hows_the_weather` that takes in one argument, a temperature.
